@@ -1,0 +1,8 @@
+obsidian-plugin-inspector-utility/
+├── README.md
+├── src/
+│   └── api/
+│       ├── types.ts 
+│       └── v1/
+│           └── pluginInspectorAPI.ts
+└── structure.txt
